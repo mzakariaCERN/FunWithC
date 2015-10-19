@@ -26,4 +26,4 @@ print.o //assembly
 For an example see http://www.thegeekstuff.com/2011/10/c-program-to-an-executable/comment-page-1/#comment-130363
 
 
-static_cast<dataTypeName>(expression)  //used to evaluate expression and express it's value in the data type needed. 
+static_cast<dataTypeName>(expression)  //used to evaluate expression and express it's value in the data type needed.. 
