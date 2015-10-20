@@ -1,3 +1,8 @@
+// This code defines a function to bubble sort a lost
+// This usually takes n (n - 1) / 2 comparisons and n (n - 1) / 4 assignments 
+// For a list of length n
+
+
 #include <iostream> 
 
 using namespace std;
