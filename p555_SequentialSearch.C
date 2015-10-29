@@ -1,3 +1,8 @@
+// This code performes a sequencial search on an integer array
+// on average you need n/2 searches to find what you want
+// return -1 means, we didn't find the element
+
+
 #include <iostream>
 
 using namespace std;
