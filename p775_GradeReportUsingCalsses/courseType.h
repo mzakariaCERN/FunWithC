@@ -10,6 +10,11 @@ class courseType
 {
 public:
 	void setCourseInfo(string cName, string cNo, int credits);
+	// Function to set the course information.
+	// The course information is set according to the 
+	// parmeters.
+	// Postcondition: courseName = cName; courseNo = cNo; 
+	// courseCredit;
 
 	void print(ostream& outF);
 	
