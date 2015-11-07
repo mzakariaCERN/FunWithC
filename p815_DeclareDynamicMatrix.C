@@ -1,3 +1,6 @@
+// Using pointers to declare a dynamic 2d matrix
+// and filling it using functions defined below
+
 #include <iostream>
 #include <iomanip>
 
